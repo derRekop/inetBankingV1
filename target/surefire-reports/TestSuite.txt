@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 33.214 s <<< FAILURE! - in TestSuite
+addNewCustomer(com.inetbanking.testcases.TC_003_AddCustomer)  Time elapsed: 13.499 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.inetbanking.testcases.TC_003_AddCustomer.addNewCustomer(TC_003_AddCustomer.java:47)
+
